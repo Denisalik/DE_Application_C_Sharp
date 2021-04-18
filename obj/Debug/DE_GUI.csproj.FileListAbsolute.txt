@@ -1,0 +1,10 @@
+D:\учеба\c#\DE_GUI\bin\Debug\DE_GUI.exe.config
+D:\учеба\c#\DE_GUI\bin\Debug\DE_GUI.exe
+D:\учеба\c#\DE_GUI\bin\Debug\DE_GUI.pdb
+D:\учеба\c#\DE_GUI\obj\Debug\DE_GUI.csprojAssemblyReference.cache
+D:\учеба\c#\DE_GUI\obj\Debug\DE_GUI.Form1.resources
+D:\учеба\c#\DE_GUI\obj\Debug\DE_GUI.Properties.Resources.resources
+D:\учеба\c#\DE_GUI\obj\Debug\DE_GUI.csproj.GenerateResource.cache
+D:\учеба\c#\DE_GUI\obj\Debug\DE_GUI.csproj.CoreCompileInputs.cache
+D:\учеба\c#\DE_GUI\obj\Debug\DE_GUI.exe
+D:\учеба\c#\DE_GUI\obj\Debug\DE_GUI.pdb
